@@ -1,0 +1,10 @@
+1 . Re-run project without restarting server - "npm install --save-dev nodemon" .
+2 . cmd to run in auto restart mode "npm start" .
+3 . cmd to print api calls in console log ="npm install --save morgan"
+4 . cmd to add post method body =  npm install --save body-parser
+
+---------------------------------------------------------------------------------
+Mongo User name:Manoj
+Mongo password:********
+---------------------------------------------------------------------------------
+ 5 . npm install --save mongoose
